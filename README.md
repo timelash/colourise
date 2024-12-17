@@ -10,7 +10,7 @@ This project is designed to make it easy to bring old black-and-white photos and
 - **Image Colorisation**: Transform black-and-white photos into vivid, colorful images.
 - **Video Colorisation**: Add color to grayscale videos frame-by-frame.
 - **Customisable**: Fine-tune settings for the best results. Examples to be included at a later date.
-- **Extensible**: Easily integrate into larger projects or workflows.
+
 
 ## Installation
 
